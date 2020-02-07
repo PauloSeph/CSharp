@@ -17,7 +17,7 @@ namespace exercicios {
             Console.WriteLine(n4);
             Console.WriteLine(delta);
             Console.WriteLine(x1); 
-            Console.WriteLine(x2)
+            Console.WriteLine(x2);
 
 
         }
